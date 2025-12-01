@@ -1,6 +1,6 @@
 # Government Exam AI Model
 
-**Author**: MiniMax Agent  
+**Author**: Jitender kumar  
 **Version**: 1.0.0  
 **Date**: 2025-12-01  
 
