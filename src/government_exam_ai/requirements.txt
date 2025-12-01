@@ -1,0 +1,76 @@
+# Government Exam AI System Requirements
+
+# Core ML and Data Science
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.3.0
+scipy==1.11.2
+xgboost==1.7.6
+
+# NLP and Text Processing
+nltk==3.8.1
+spacy==3.6.1
+transformers==4.32.1
+sentence-transformers==2.2.2
+
+# Web Framework
+fastapi==0.103.1
+uvicorn[standard]==0.23.2
+
+# Frontend Dependencies
+react==18.2.0
+react-dom==18.2.0
+@babel/standalone==7.22.15
+
+# Data Processing and File Handling
+pdfplumber==0.9.0
+PyPDF2==3.0.1
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# HTTP Client
+requests==2.31.0
+aiohttp==3.8.5
+httpx==0.24.1
+
+# Database (optional)
+sqlite3  # Built into Python
+
+# Development and Testing
+pytest==7.4.2
+black==23.7.0
+flake8==6.0.0
+
+# Deployment
+gunicorn==21.2.0
+docker  # For containerization
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.15.0
+
+# Additional NLP Tools
+rouge-score==0.1.2
+bleach==6.0.0
+
+# System Utilities
+python-multipart==0.0.6
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+
+# Deep Learning Framework
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+
+# Model Training and Optimization
+accelerate==0.23.0
+datasets==2.14.5
+evaluate==0.4.0
+
+# Notes:
+# - Some packages may require additional system dependencies
+# - For spaCy: run `python -m spacy download en_core_web_sm` after installation
+# - For NLTK: run `python -c "import nltk; nltk.download('all')"` after installation
+# - GPU support is optional and requires CUDA-compatible hardware

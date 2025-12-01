@@ -1,0 +1,36 @@
+{
+  "student_id": "demo_student",
+  "exam_preferences": [
+    "ssc_cgl",
+    "ibps_po"
+  ],
+  "subject_strengths": {
+    "english": 75.5,
+    "reasoning": 68.2
+  },
+  "subject_weaknesses": {
+    "mathematics": 45.3,
+    "general_awareness": 52.1
+  },
+  "average_score": 62.8,
+  "total_attempts": 15,
+  "recent_performance": [
+    58.2,
+    61.5,
+    64.1,
+    62.8,
+    65.3
+  ],
+  "learning_curve": [
+    "stable",
+    "improving",
+    "improving"
+  ],
+  "preferred_difficulty": "medium",
+  "time_per_question": {
+    "english": 1.8,
+    "mathematics": 2.5,
+    "reasoning": 2.2,
+    "general_awareness": 1.5
+  }
+}

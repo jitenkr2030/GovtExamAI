@@ -1,0 +1,107 @@
+[
+  {
+    "question": {
+      "question_id": "Q001",
+      "exam_code": "ssc_cgl",
+      "question_text": "What is the capital of France?",
+      "options": [
+        "London",
+        "Berlin",
+        "Paris",
+        "Madrid"
+      ],
+      "correct_answer": "C",
+      "explanation": "Paris is the capital and most populous city of France.",
+      "subject": "geography",
+      "topic": "countries_capitals",
+      "difficulty": "easy",
+      "year": 2023,
+      "stage": "tier1",
+      "source": "sample_data",
+      "tags": [
+        "capital",
+        "france",
+        "europe"
+      ]
+    },
+    "features": {
+      "marks": 1.0,
+      "estimated_time": 1.5,
+      "discriminative_power": 0.7,
+      "question_length": 30,
+      "word_count": 8,
+      "subject_encoded": 9,
+      "difficulty_encoded": 1
+    }
+  },
+  {
+    "question": {
+      "question_id": "Q002",
+      "exam_code": "ssc_cgl",
+      "question_text": "Calculate the value of 15 × 8 ÷ 4 + 12",
+      "options": [
+        "42",
+        "39",
+        "45",
+        "48"
+      ],
+      "correct_answer": "A",
+      "explanation": "15 × 8 ÷ 4 + 12 = 120 ÷ 4 + 12 = 30 + 12 = 42",
+      "subject": "mathematics",
+      "topic": "arithmetic",
+      "difficulty": "medium",
+      "year": 2023,
+      "stage": "tier1",
+      "source": "sample_data",
+      "tags": [
+        "arithmetic",
+        "calculation",
+        "bodmas"
+      ]
+    },
+    "features": {
+      "marks": 1.0,
+      "estimated_time": 2.0,
+      "discriminative_power": 0.8,
+      "question_length": 35,
+      "word_count": 9,
+      "subject_encoded": 2,
+      "difficulty_encoded": 2
+    }
+  },
+  {
+    "question": {
+      "question_id": "Q003",
+      "exam_code": "ibps_po",
+      "question_text": "Choose the word most nearly opposite in meaning to 'OBSTINATE'",
+      "options": [
+        "Stubborn",
+        "Flexible",
+        "Persistent",
+        "Determined"
+      ],
+      "correct_answer": "B",
+      "explanation": "Obstinate means stubborn, while flexible means adaptable or willing to change.",
+      "subject": "english",
+      "topic": "synonyms_antonyms",
+      "difficulty": "medium",
+      "year": 2023,
+      "stage": "prelims",
+      "source": "sample_data",
+      "tags": [
+        "antonyms",
+        "vocabulary",
+        "opposite"
+      ]
+    },
+    "features": {
+      "marks": 1.0,
+      "estimated_time": 2.5,
+      "discriminative_power": 0.6,
+      "question_length": 55,
+      "word_count": 12,
+      "subject_encoded": 1,
+      "difficulty_encoded": 2
+    }
+  }
+]

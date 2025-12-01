@@ -1,0 +1,26 @@
+architecture:
+  container_instances:
+    container_group: gov-exam-ai-api
+    cpu: '2'
+    gpu: None
+    memory: 4Gi
+    replicas: '2'
+    resource_group: rg-gov-exam-ai
+  storage:
+    account: govexamaistorage
+    container: models
+deployment_platform: Microsoft Azure
+deployment_steps:
+- 1. Build and push to Azure Container Registry
+- 2. Deploy to Container Instances
+- 3. Configure Application Gateway
+- 4. Set up Application Insights
+- 5. Configure auto-scaling
+estimated_cost_monthly: $45-180 USD
+scalability: Auto-scales with traffic
+services:
+  cdn: Azure CDN
+  compute: Container Instances
+  database: Azure SQL
+  monitoring: Application Insights
+  storage: Blob Storage

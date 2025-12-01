@@ -1,0 +1,46 @@
+{
+  "monitoring_stack": {
+    "metrics": "Prometheus + Grafana",
+    "logging": "ELK Stack (Elasticsearch, Logstash, Kibana)",
+    "tracing": "Jaeger",
+    "alerts": "AlertManager"
+  },
+  "key_metrics": {
+    "api_metrics": [
+      "Request rate (RPS)",
+      "Response time (P50, P95, P99)",
+      "Error rate",
+      "Success rate"
+    ],
+    "model_metrics": [
+      "Prediction accuracy",
+      "Model inference time",
+      "Memory usage",
+      "CPU utilization"
+    ],
+    "business_metrics": [
+      "Questions processed per hour",
+      "Subject distribution",
+      "User engagement",
+      "API usage patterns"
+    ]
+  },
+  "alerting_rules": {
+    "critical": [
+      "API response time > 2000ms",
+      "Error rate > 5%",
+      "Model accuracy < 70%"
+    ],
+    "warning": [
+      "API response time > 1000ms",
+      "Error rate > 2%",
+      "Memory usage > 80%"
+    ]
+  },
+  "dashboard_sections": [
+    "API Performance Dashboard",
+    "Model Performance Dashboard",
+    "Infrastructure Dashboard",
+    "Business Metrics Dashboard"
+  ]
+}

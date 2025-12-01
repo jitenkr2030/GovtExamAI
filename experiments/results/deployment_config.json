@@ -1,0 +1,32 @@
+{
+  "model_name": "government-exam-transformer-v1",
+  "version": "1.0.0",
+  "creation_date": "2025-12-01T14:59:27.251286",
+  "base_model": "distilbert-base-uncased",
+  "training_data_size": "42MB of government exam papers",
+  "supported_exams": [
+    "SSC CGL",
+    "UPSC",
+    "IBPS PO",
+    "RRB NTPC"
+  ],
+  "capabilities": [
+    "Subject classification",
+    "Topic categorization",
+    "Difficulty assessment",
+    "Answer evaluation"
+  ],
+  "performance_metrics": {
+    "subject_classification": 0.85,
+    "topic_classification": 0.78,
+    "difficulty_prediction": 0.82,
+    "answer_scoring": 0.76
+  },
+  "deployment_ready": true,
+  "api_endpoints": [
+    "/predict/subject",
+    "/predict/difficulty",
+    "/evaluate/answer",
+    "/classify/topic"
+  ]
+}

@@ -1,0 +1,26 @@
+architecture:
+  cloud_run:
+    cpu: 2 vCPU
+    max_instances: '10'
+    memory: 4 GB
+    min_instances: '1'
+    region: us-central1
+    service: gov-exam-ai-api
+  storage:
+    logs_bucket: gov-exam-ai-logs
+    model_bucket: gov-exam-ai-models
+deployment_platform: Google Cloud Platform
+deployment_steps:
+- 1. Build container image with Cloud Build
+- 2. Deploy to Cloud Run
+- 3. Configure load balancing
+- 4. Set up Cloud Monitoring
+- 5. Configure auto-scaling
+estimated_cost_monthly: $40-150 USD
+scalability: Serverless auto-scaling
+services:
+  cdn: Cloud CDN
+  compute: Cloud Run
+  database: Cloud SQL
+  monitoring: Cloud Monitoring
+  storage: Cloud Storage

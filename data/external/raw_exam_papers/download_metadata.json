@@ -1,0 +1,47 @@
+{
+  "download_timestamp": "2025-12-01 14:57:00",
+  "total_papers": 4,
+  "successful_downloads": 4,
+  "failed_downloads": 0,
+  "papers": {
+    "successful": [
+      {
+        "paper": {
+          "url": "https://blogmedia.testbook.com/blog/wp-content/uploads/2021/08/ssc-cgl-tier-i-13-august-2021-shift-1-memory-based-test-9d38fbfe.pdf",
+          "filename": "ssc_cgl_2020_shift1_aug13.pdf",
+          "exam_type": "SSC CGL",
+          "description": "SSC CGL 2020 Tier 1 Shift 1 (13 Aug 2021)"
+        },
+        "local_path": "data_collection/raw_exam_papers/ssc_cgl/ssc_cgl_2020_shift1_aug13.pdf"
+      },
+      {
+        "paper": {
+          "url": "https://blogmedia.testbook.com/blog/wp-content/uploads/2021/08/ssc-cgl-tier-i-13-august-2021-shift-2-memory-based-test-06e931b7.pdf",
+          "filename": "ssc_cgl_2020_shift2_aug13.pdf",
+          "exam_type": "SSC CGL",
+          "description": "SSC CGL 2020 Tier 1 Shift 2 (13 Aug 2021)"
+        },
+        "local_path": "data_collection/raw_exam_papers/ssc_cgl/ssc_cgl_2020_shift2_aug13.pdf"
+      },
+      {
+        "paper": {
+          "url": "https://blogmedia.testbook.com/blog/wp-content/uploads/2020/07/ssc-cgl-9-march-2020-shift-1_eng-c9f8ae25.pdf",
+          "filename": "ssc_cgl_2019_shift1_mar9.pdf",
+          "exam_type": "SSC CGL",
+          "description": "SSC CGL 2019 Tier 1 Shift 1 (9 Mar 2020)"
+        },
+        "local_path": "data_collection/raw_exam_papers/ssc_cgl/ssc_cgl_2019_shift1_mar9.pdf"
+      },
+      {
+        "paper": {
+          "url": "https://cdn.testbook.com/1752574519119-SSC%20CGL%202024%20Tier-II%20Official%20Paper-I%20%28Held%20On_%2018%20Jan%2C%202025%29.pdf/1752574521.pdf",
+          "filename": "ssc_cgl_2024_tier2_paper1_jan18.pdf",
+          "exam_type": "SSC CGL",
+          "description": "SSC CGL 2024 Tier 2 Paper 1 (18 Jan 2025)"
+        },
+        "local_path": "data_collection/raw_exam_papers/ssc_cgl/ssc_cgl_2024_tier2_paper1_jan18.pdf"
+      }
+    ],
+    "failed": []
+  }
+}

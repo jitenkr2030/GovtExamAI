@@ -1,0 +1,31 @@
+architecture:
+  api_gateway:
+    auth: API Key + IAM
+    endpoint: https://api-id.execute-api.region.amazonaws.com/prod
+    rate_limit: 1000 requests per minute
+  lambda_function:
+    layers:
+    - torch-layer
+    - transformers-layer
+    memory: 1024 MB
+    runtime: python3.11
+    timeout: 300 seconds
+  storage:
+    cdn: CloudFront
+    logs_bucket: gov-exam-ai-logs
+    model_bucket: gov-exam-ai-models
+deployment_platform: AWS
+deployment_steps:
+- 1. Build and push Docker image to ECR
+- 2. Deploy to ECS Fargate or Lambda
+- 3. Configure API Gateway
+- 4. Set up CloudWatch monitoring
+- 5. Configure auto-scaling
+estimated_cost_monthly: $50-200 USD
+scalability: Auto-scales based on demand
+services:
+  compute: AWS Lambda + API Gateway
+  container: ECS Fargate
+  database: RDS PostgreSQL
+  monitoring: CloudWatch
+  storage: S3

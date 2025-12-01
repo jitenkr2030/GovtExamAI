@@ -1,0 +1,58 @@
+{
+  "total_questions": 74,
+  "sources": {
+    "augmented": 56,
+    "ssc_cgl_tier1": 3,
+    "upsc_cds": 2,
+    "upsc_cse_mains": 2,
+    "rbi_gradeb": 2,
+    "ibps_po_prelims": 2,
+    "rrb_ntpc": 2,
+    "sbi_po_mains": 1,
+    "ssc_chsl_tier1": 1,
+    "nda": 1,
+    "cds": 1,
+    "upsc_cse_prelims": 1
+  },
+  "subjects": {
+    "Science": 14,
+    "Economics": 12,
+    "Polity": 10,
+    "General Knowledge": 9,
+    "Mathematics": 8,
+    "Defence": 8,
+    "Banking": 5,
+    "Geography": 5,
+    "Sports": 3
+  },
+  "topics": {
+    "Indian Railways": 9,
+    "Fundamental Rights": 7,
+    "Macroeconomics": 6,
+    "Monetary Policy": 6,
+    "World Geography": 5,
+    "Compound Interest": 5,
+    "NPAs": 5,
+    "Biology": 4,
+    "Army Leadership": 4,
+    "Navy": 4,
+    "States of Matter": 4,
+    "Election Commission": 3,
+    "Space Technology": 3,
+    "Simple Interest": 3,
+    "Cricket": 3,
+    "Physics": 3
+  },
+  "difficulty_levels": {
+    "Medium": 42,
+    "Easy": 23,
+    "Hard": 9
+  },
+  "text_statistics": {
+    "avg_length": 67.8108108108108,
+    "min_length": 30,
+    "max_length": 115,
+    "avg_words": 12.175675675675675
+  },
+  "created_timestamp": "2025-12-01T14:46:13.391723"
+}

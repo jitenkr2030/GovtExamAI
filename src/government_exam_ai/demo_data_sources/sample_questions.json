@@ -1,0 +1,16 @@
+[
+  {
+    "question_text": "What is thecurrency of Japan?",
+    "subject": "Geography",
+    "topic": "Currencies",
+    "difficulty": "Easy",
+    "exam_type": "Banking"
+  },
+  {
+    "question_text": "Calculate the area of a circle with radius 7 cm.",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Medium",
+    "exam_type": "SSC"
+  }
+]

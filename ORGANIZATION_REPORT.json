@@ -1,0 +1,1066 @@
+{
+  "organization_date": "2025-12-01T16:42:46.457642",
+  "project_name": "Government Exam AI Model",
+  "structure_summary": {
+    ".git": {
+      "directories": 6,
+      "files": 5
+    },
+    ".git/branches": {
+      "directories": 0,
+      "files": 0
+    },
+    ".git/hooks": {
+      "directories": 0,
+      "files": 13
+    },
+    ".git/info": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/logs": {
+      "directories": 1,
+      "files": 1
+    },
+    ".git/logs/refs": {
+      "directories": 1,
+      "files": 0
+    },
+    ".git/logs/refs/heads": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects": {
+      "directories": 138,
+      "files": 0
+    },
+    ".git/objects/03": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/05": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/06": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/07": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/08": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/09": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/0c": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/0d": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/0f": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/10": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/13": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/14": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/15": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/16": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/18": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/1e": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/1f": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/26": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/2b": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/2d": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/2e": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/2f": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/30": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/31": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/33": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/34": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/36": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/38": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/39": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/3a": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/3b": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/3c": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/41": {
+      "directories": 0,
+      "files": 4
+    },
+    ".git/objects/42": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/43": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/44": {
+      "directories": 0,
+      "files": 3
+    },
+    ".git/objects/45": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/49": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/4a": {
+      "directories": 0,
+      "files": 4
+    },
+    ".git/objects/4b": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/4d": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/51": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/53": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/54": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/56": {
+      "directories": 0,
+      "files": 3
+    },
+    ".git/objects/58": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/5a": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/5b": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/5d": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/5f": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/62": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/63": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/64": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/66": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/67": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/69": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/70": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/72": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/7a": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/80": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/81": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/85": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/86": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/89": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/8a": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/8c": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/8d": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/8f": {
+      "directories": 0,
+      "files": 3
+    },
+    ".git/objects/90": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/92": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/93": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/96": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/98": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/9d": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/9e": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/9f": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/a0": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/a2": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/a3": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/a4": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/aa": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/ab": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/ac": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/ad": {
+      "directories": 0,
+      "files": 3
+    },
+    ".git/objects/ae": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/b3": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/b5": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/b8": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/b9": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/ba": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/bb": {
+      "directories": 0,
+      "files": 3
+    },
+    ".git/objects/bd": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/be": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/c0": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/c3": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/c4": {
+      "directories": 0,
+      "files": 3
+    },
+    ".git/objects/c6": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/ca": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/cb": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/cd": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/ce": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/cf": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/d1": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/d2": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/d3": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/d4": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/d6": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/d8": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/d9": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/da": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/db": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/dc": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/de": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/df": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/e0": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/e1": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/e2": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/e4": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/e6": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/e7": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/e8": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/ea": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/eb": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/ed": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/ee": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/f1": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/f2": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/f3": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/f4": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/f5": {
+      "directories": 0,
+      "files": 3
+    },
+    ".git/objects/f7": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/f8": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/fb": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/fc": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/fd": {
+      "directories": 0,
+      "files": 2
+    },
+    ".git/objects/fe": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/objects/info": {
+      "directories": 0,
+      "files": 0
+    },
+    ".git/objects/pack": {
+      "directories": 0,
+      "files": 0
+    },
+    ".git/refs": {
+      "directories": 2,
+      "files": 0
+    },
+    ".git/refs/heads": {
+      "directories": 0,
+      "files": 1
+    },
+    ".git/refs/tags": {
+      "directories": 0,
+      "files": 12
+    },
+    "browser": {
+      "directories": 1,
+      "files": 1
+    },
+    "browser/browser_extension": {
+      "directories": 1,
+      "files": 0
+    },
+    "browser/browser_extension/error_capture": {
+      "directories": 0,
+      "files": 4
+    },
+    "config": {
+      "directories": 4,
+      "files": 2
+    },
+    "config/data": {
+      "directories": 0,
+      "files": 0
+    },
+    "config/deployment": {
+      "directories": 0,
+      "files": 0
+    },
+    "config/model": {
+      "directories": 0,
+      "files": 0
+    },
+    "config/training": {
+      "directories": 0,
+      "files": 0
+    },
+    "data": {
+      "directories": 4,
+      "files": 1
+    },
+    "data/external": {
+      "directories": 2,
+      "files": 0
+    },
+    "data/external/raw_exam_papers": {
+      "directories": 4,
+      "files": 2
+    },
+    "data/external/raw_exam_papers/ibps_po": {
+      "directories": 0,
+      "files": 0
+    },
+    "data/external/raw_exam_papers/rrb_ntpc": {
+      "directories": 0,
+      "files": 0
+    },
+    "data/external/raw_exam_papers/ssc_cgl": {
+      "directories": 0,
+      "files": 4
+    },
+    "data/external/raw_exam_papers/upsc": {
+      "directories": 0,
+      "files": 0
+    },
+    "data/external/scaled_exam_data": {
+      "directories": 0,
+      "files": 1
+    },
+    "data/processed": {
+      "directories": 0,
+      "files": 0
+    },
+    "data/raw": {
+      "directories": 0,
+      "files": 0
+    },
+    "data/synthetic": {
+      "directories": 0,
+      "files": 1
+    },
+    "data_collection": {
+      "directories": 1,
+      "files": 2
+    },
+    "data_collection/enhanced_exam_data": {
+      "directories": 0,
+      "files": 0
+    },
+    "deploy": {
+      "directories": 5,
+      "files": 1
+    },
+    "deploy/cloud": {
+      "directories": 0,
+      "files": 0
+    },
+    "deploy/docker": {
+      "directories": 0,
+      "files": 0
+    },
+    "deploy/kubernetes": {
+      "directories": 0,
+      "files": 0
+    },
+    "deploy/monitoring": {
+      "directories": 0,
+      "files": 0
+    },
+    "deploy/production_deployment": {
+      "directories": 4,
+      "files": 7
+    },
+    "deploy/production_deployment/.github": {
+      "directories": 1,
+      "files": 0
+    },
+    "deploy/production_deployment/.github/workflows": {
+      "directories": 0,
+      "files": 1
+    },
+    "deploy/production_deployment/api_service": {
+      "directories": 0,
+      "files": 3
+    },
+    "deploy/production_deployment/cloud_configs": {
+      "directories": 0,
+      "files": 3
+    },
+    "deploy/production_deployment/docker": {
+      "directories": 0,
+      "files": 4
+    },
+    "docs": {
+      "directories": 4,
+      "files": 1
+    },
+    "docs/api": {
+      "directories": 0,
+      "files": 0
+    },
+    "docs/guides": {
+      "directories": 0,
+      "files": 0
+    },
+    "docs/reports": {
+      "directories": 0,
+      "files": 3
+    },
+    "docs/research": {
+      "directories": 0,
+      "files": 2
+    },
+    "enhanced_training_outputs": {
+      "directories": 2,
+      "files": 1
+    },
+    "enhanced_training_outputs/fold_0": {
+      "directories": 0,
+      "files": 0
+    },
+    "enhanced_training_outputs/model_checkpoints": {
+      "directories": 0,
+      "files": 0
+    },
+    "experiments": {
+      "directories": 4,
+      "files": 1
+    },
+    "experiments/checkpoints": {
+      "directories": 0,
+      "files": 0
+    },
+    "experiments/logs": {
+      "directories": 0,
+      "files": 0
+    },
+    "experiments/notebooks": {
+      "directories": 0,
+      "files": 0
+    },
+    "experiments/results": {
+      "directories": 1,
+      "files": 0
+    },
+    "experiments/results/direct_training_outputs": {
+      "directories": 0,
+      "files": 1
+    },
+    "external_api": {
+      "directories": 1,
+      "files": 3
+    },
+    "external_api/data_sources": {
+      "directories": 0,
+      "files": 12
+    },
+    "extract": {
+      "directories": 0,
+      "files": 0
+    },
+    "fast_training_outputs": {
+      "directories": 0,
+      "files": 3
+    },
+    "fixed_training_outputs": {
+      "directories": 0,
+      "files": 0
+    },
+    "imgs": {
+      "directories": 0,
+      "files": 0
+    },
+    "models": {
+      "directories": 4,
+      "files": 1
+    },
+    "models/checkpoints": {
+      "directories": 0,
+      "files": 0
+    },
+    "models/config": {
+      "directories": 0,
+      "files": 0
+    },
+    "models/metadata": {
+      "directories": 0,
+      "files": 2
+    },
+    "models/trained": {
+      "directories": 0,
+      "files": 1
+    },
+    "requirements": {
+      "directories": 3,
+      "files": 3
+    },
+    "requirements/development": {
+      "directories": 0,
+      "files": 0
+    },
+    "requirements/production": {
+      "directories": 0,
+      "files": 0
+    },
+    "requirements/testing": {
+      "directories": 0,
+      "files": 0
+    },
+    "scripts": {
+      "directories": 4,
+      "files": 1
+    },
+    "scripts/data_ingestion": {
+      "directories": 0,
+      "files": 0
+    },
+    "scripts/deployment": {
+      "directories": 0,
+      "files": 0
+    },
+    "scripts/maintenance": {
+      "directories": 0,
+      "files": 0
+    },
+    "scripts/setup": {
+      "directories": 0,
+      "files": 0
+    },
+    "shell_output_save": {
+      "directories": 0,
+      "files": 1
+    },
+    "simple_training_outputs": {
+      "directories": 0,
+      "files": 0
+    },
+    "simplified_training_outputs": {
+      "directories": 1,
+      "files": 1
+    },
+    "simplified_training_outputs/model_checkpoints": {
+      "directories": 0,
+      "files": 0
+    },
+    "src": {
+      "directories": 6,
+      "files": 1
+    },
+    "src/data_processing": {
+      "directories": 0,
+      "files": 3
+    },
+    "src/evaluation": {
+      "directories": 0,
+      "files": 2
+    },
+    "src/government_exam_ai": {
+      "directories": 14,
+      "files": 10
+    },
+    "src/government_exam_ai/__pycache__": {
+      "directories": 0,
+      "files": 1
+    },
+    "src/government_exam_ai/analytics": {
+      "directories": 2,
+      "files": 1
+    },
+    "src/government_exam_ai/analytics/__pycache__": {
+      "directories": 0,
+      "files": 1
+    },
+    "src/government_exam_ai/analytics/visualizations": {
+      "directories": 0,
+      "files": 0
+    },
+    "src/government_exam_ai/api": {
+      "directories": 1,
+      "files": 2
+    },
+    "src/government_exam_ai/api/__pycache__": {
+      "directories": 0,
+      "files": 1
+    },
+    "src/government_exam_ai/config": {
+      "directories": 1,
+      "files": 2
+    },
+    "src/government_exam_ai/config/__pycache__": {
+      "directories": 0,
+      "files": 1
+    },
+    "src/government_exam_ai/data": {
+      "directories": 3,
+      "files": 4
+    },
+    "src/government_exam_ai/data/performance": {
+      "directories": 0,
+      "files": 0
+    },
+    "src/government_exam_ai/data/processed_exam_dataset": {
+      "directories": 0,
+      "files": 0
+    },
+    "src/government_exam_ai/data/student_profiles": {
+      "directories": 0,
+      "files": 1
+    },
+    "src/government_exam_ai/data_ingestion": {
+      "directories": 2,
+      "files": 2
+    },
+    "src/government_exam_ai/data_ingestion/__pycache__": {
+      "directories": 0,
+      "files": 2
+    },
+    "src/government_exam_ai/data_ingestion/ml_models": {
+      "directories": 1,
+      "files": 0
+    },
+    "src/government_exam_ai/data_ingestion/ml_models/evaluation": {
+      "directories": 1,
+      "files": 0
+    },
+    "src/government_exam_ai/data_ingestion/ml_models/evaluation/test_generation": {
+      "directories": 0,
+      "files": 0
+    },
+    "src/government_exam_ai/demo_data_sources": {
+      "directories": 0,
+      "files": 3
+    },
+    "src/government_exam_ai/docs": {
+      "directories": 0,
+      "files": 0
+    },
+    "src/government_exam_ai/evaluation": {
+      "directories": 1,
+      "files": 1
+    },
+    "src/government_exam_ai/evaluation/__pycache__": {
+      "directories": 0,
+      "files": 1
+    },
+    "src/government_exam_ai/frontend": {
+      "directories": 0,
+      "files": 1
+    },
+    "src/government_exam_ai/ml_models": {
+      "directories": 1,
+      "files": 2
+    },
+    "src/government_exam_ai/ml_models/__pycache__": {
+      "directories": 0,
+      "files": 2
+    },
+    "src/government_exam_ai/models": {
+      "directories": 0,
+      "files": 0
+    },
+    "src/government_exam_ai/test_generation": {
+      "directories": 1,
+      "files": 1
+    },
+    "src/government_exam_ai/test_generation/__pycache__": {
+      "directories": 0,
+      "files": 1
+    },
+    "src/government_exam_ai/tests": {
+      "directories": 0,
+      "files": 0
+    },
+    "src/models": {
+      "directories": 0,
+      "files": 0
+    },
+    "src/training": {
+      "directories": 0,
+      "files": 7
+    },
+    "src/utils": {
+      "directories": 0,
+      "files": 1
+    },
+    "tests": {
+      "directories": 4,
+      "files": 1
+    },
+    "tests/data": {
+      "directories": 0,
+      "files": 0
+    },
+    "tests/integration": {
+      "directories": 0,
+      "files": 0
+    },
+    "tests/performance": {
+      "directories": 0,
+      "files": 0
+    },
+    "tests/unit": {
+      "directories": 0,
+      "files": 0
+    },
+    "training_outputs": {
+      "directories": 0,
+      "files": 7
+    }
+  },
+  "total_directories": 237,
+  "total_files": 357,
+  "benefits": [
+    "Clear separation of concerns (src, data, models, docs)",
+    "Version control friendly structure",
+    "Scalable for large AI projects",
+    "Industry-standard organization",
+    "Easy collaboration and maintenance",
+    "Production deployment ready",
+    "Comprehensive documentation structure"
+  ],
+  "next_steps": [
+    "Migrate remaining files to appropriate directories",
+    "Set up CI/CD pipeline with the new structure",
+    "Create comprehensive test suite",
+    "Document all modules and functions",
+    "Set up experiment tracking (MLflow/W&B)",
+    "Configure monitoring and logging",
+    "Prepare production deployment"
+  ]
+}

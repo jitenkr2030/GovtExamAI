@@ -1,0 +1,6 @@
+pytest>=6.0.0
+jupyter>=1.0.0
+notebook>=6.4.0
+black>=21.0.0
+flake8>=3.9.0
+mypy>=0.910

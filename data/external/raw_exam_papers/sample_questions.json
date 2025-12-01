@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Which of the following is the smallest prime number?",
+    "options": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3"
+    ],
+    "correct_answer": "C) 2",
+    "subject": "Mathematics",
+    "topic": "Number Theory",
+    "difficulty": "Easy",
+    "exam_type": "SSC CGL",
+    "source": "sample_generated"
+  },
+  {
+    "question": "The constitution of India was adopted on which date?",
+    "options": [
+      "A) 15 August 1947",
+      "B) 26 January 1950",
+      "C) 26 November 1949",
+      "D) 2 October 1947"
+    ],
+    "correct_answer": "C) 26 November 1949",
+    "subject": "General Knowledge",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium",
+    "exam_type": "SSC CGL",
+    "source": "sample_generated"
+  },
+  {
+    "question": "Complete the series: 2, 6, 12, 20, 30, ?",
+    "options": [
+      "A) 42",
+      "B) 40",
+      "C) 44",
+      "D) 48"
+    ],
+    "correct_answer": "A) 42",
+    "subject": "Mathematics",
+    "topic": "Series and Sequences",
+    "difficulty": "Medium",
+    "exam_type": "SSC CGL",
+    "source": "sample_generated"
+  },
+  {
+    "question": "Which article of the Indian Constitution provides for the appointment of the Comptroller and Auditor General of India?",
+    "options": [
+      "A) Article 148",
+      "B) Article 150",
+      "C) Article 153",
+      "D) Article 155"
+    ],
+    "correct_answer": "A) Article 148",
+    "subject": "Polity",
+    "topic": "Constitutional Bodies",
+    "difficulty": "Hard",
+    "exam_type": "UPSC",
+    "source": "sample_generated"
+  },
+  {
+    "question": "The concept of 'Zero Hunger' is one of the Sustainable Development Goals. Which SDG number is it?",
+    "options": [
+      "A) SDG 1",
+      "B) SDG 2",
+      "C) SDG 3",
+      "D) SDG 4"
+    ],
+    "correct_answer": "B) SDG 2",
+    "subject": "Current Affairs",
+    "topic": "Sustainable Development",
+    "difficulty": "Medium",
+    "exam_type": "UPSC",
+    "source": "sample_generated"
+  },
+  {
+    "question": "What is the currentRepo Rate as decided by RBI in December 2024?",
+    "options": [
+      "A) 6.25%",
+      "B) 6.50%",
+      "C) 6.75%",
+      "D) 7.00%"
+    ],
+    "correct_answer": "B) 6.50%",
+    "subject": "Banking",
+    "topic": "Monetary Policy",
+    "difficulty": "Medium",
+    "exam_type": "IBPS PO",
+    "source": "sample_generated"
+  },
+  {
+    "question": "Which zone of Indian Railways has the maximum route kilometers?",
+    "options": [
+      "A) Northern Railway",
+      "B) Southern Railway",
+      "C) Eastern Railway",
+      "D) Western Railway"
+    ],
+    "correct_answer": "A) Northern Railway",
+    "subject": "General Knowledge",
+    "topic": "Indian Railways",
+    "difficulty": "Medium",
+    "exam_type": "RRB NTPC",
+    "source": "sample_generated"
+  }
+]

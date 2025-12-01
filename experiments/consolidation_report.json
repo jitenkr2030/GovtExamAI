@@ -1,0 +1,32 @@
+{
+  "consolidation_timestamp": "2025-12-01T17:10:06.803448",
+  "consolidated_data": {
+    "model_checkpoints": [
+      "/workspace/fast_training_outputs/best_model.pt",
+      "/workspace/fast_training_outputs/model_config.json"
+    ],
+    "training_logs": [
+      "/workspace/training_outputs/training_metrics.json"
+    ],
+    "evaluation_results": [
+      "/workspace/training_outputs/deployment_config.json",
+      "/workspace/training_outputs/evaluation_results.json",
+      "/workspace/training_outputs/pipeline_summary.json",
+      "/workspace/training_outputs/processed_training_data.json",
+      "/workspace/training_outputs/project_summary.json",
+      "/workspace/training_outputs/training_config.json",
+      "/workspace/enhanced_training_outputs/enhanced_training_data.json",
+      "/workspace/fast_training_outputs/evaluation_results.json",
+      "/workspace/simplified_training_outputs/training_data.json"
+    ],
+    "config_files": [],
+    "metrics": []
+  },
+  "stats": {
+    "files_moved": 12,
+    "directories_created": 23,
+    "directories_removed": 6,
+    "files_copied": 0,
+    "temp_files_removed": 0
+  }
+}

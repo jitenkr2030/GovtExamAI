@@ -1,0 +1,330 @@
+{
+  "train": [
+    {
+      "input_text": "Question from ssc_cgl_2019_shift1_mar9: Which of the following is correct?",
+      "target": {
+        "subject": "General Studies",
+        "topic": "General Knowledge",
+        "difficulty": "Medium",
+        "correct_answer": "B) Option 2"
+      },
+      "metadata": {
+        "exam_type": "SSC CGL",
+        "source": "/workspace/data_collection/raw_exam_papers/ssc_cgl/ssc_cgl_2019_shift1_mar9.pdf",
+        "question_id": "ssc_cgl_2019_shift1_mar9_q1"
+      }
+    },
+    {
+      "input_text": "Question from ssc_cgl_2019_shift1_mar9: Complete the series: 1, 4, 9, 16, ?",
+      "target": {
+        "subject": "Mathematics",
+        "topic": "Series and Sequences",
+        "difficulty": "Easy",
+        "correct_answer": "B) 25"
+      },
+      "metadata": {
+        "exam_type": "SSC CGL",
+        "source": "/workspace/data_collection/raw_exam_papers/ssc_cgl/ssc_cgl_2019_shift1_mar9.pdf",
+        "question_id": "ssc_cgl_2019_shift1_mar9_q2"
+      }
+    },
+    {
+      "input_text": "Question from ssc_cgl_2019_shift1_mar9: Find the synonym of 'ABUNDANT'",
+      "target": {
+        "subject": "English",
+        "topic": "Vocabulary",
+        "difficulty": "Medium",
+        "correct_answer": "B) Plenty"
+      },
+      "metadata": {
+        "exam_type": "SSC CGL",
+        "source": "/workspace/data_collection/raw_exam_papers/ssc_cgl/ssc_cgl_2019_shift1_mar9.pdf",
+        "question_id": "ssc_cgl_2019_shift1_mar9_q3"
+      }
+    },
+    {
+      "input_text": "Question from ssc_cgl_2019_shift1_mar9: Which article of the Indian Constitution deals with the Supreme Court?",
+      "target": {
+        "subject": "Polity",
+        "topic": "Constitutional Law",
+        "difficulty": "Hard",
+        "correct_answer": "A) Article 124"
+      },
+      "metadata": {
+        "exam_type": "SSC CGL",
+        "source": "/workspace/data_collection/raw_exam_papers/ssc_cgl/ssc_cgl_2019_shift1_mar9.pdf",
+        "question_id": "ssc_cgl_2019_shift1_mar9_constitutional"
+      }
+    },
+    {
+      "input_text": "Question from ssc_cgl_2020_shift1_aug13: Which of the following is correct?",
+      "target": {
+        "subject": "General Studies",
+        "topic": "General Knowledge",
+        "difficulty": "Medium",
+        "correct_answer": "B) Option 2"
+      },
+      "metadata": {
+        "exam_type": "SSC CGL",
+        "source": "/workspace/data_collection/raw_exam_papers/ssc_cgl/ssc_cgl_2020_shift1_aug13.pdf",
+        "question_id": "ssc_cgl_2020_shift1_aug13_q1"
+      }
+    },
+    {
+      "input_text": "Question from ssc_cgl_2020_shift1_aug13: Complete the series: 1, 4, 9, 16, ?",
+      "target": {
+        "subject": "Mathematics",
+        "topic": "Series and Sequences",
+        "difficulty": "Easy",
+        "correct_answer": "B) 25"
+      },
+      "metadata": {
+        "exam_type": "SSC CGL",
+        "source": "/workspace/data_collection/raw_exam_papers/ssc_cgl/ssc_cgl_2020_shift1_aug13.pdf",
+        "question_id": "ssc_cgl_2020_shift1_aug13_q2"
+      }
+    },
+    {
+      "input_text": "Question from ssc_cgl_2020_shift1_aug13: Find the synonym of 'ABUNDANT'",
+      "target": {
+        "subject": "English",
+        "topic": "Vocabulary",
+        "difficulty": "Medium",
+        "correct_answer": "B) Plenty"
+      },
+      "metadata": {
+        "exam_type": "SSC CGL",
+        "source": "/workspace/data_collection/raw_exam_papers/ssc_cgl/ssc_cgl_2020_shift1_aug13.pdf",
+        "question_id": "ssc_cgl_2020_shift1_aug13_q3"
+      }
+    },
+    {
+      "input_text": "Question from ssc_cgl_2020_shift1_aug13: What is the currency of Japan?",
+      "target": {
+        "subject": "Current Affairs",
+        "topic": "International",
+        "difficulty": "Easy",
+        "correct_answer": "C) Yen"
+      },
+      "metadata": {
+        "exam_type": "SSC CGL",
+        "source": "/workspace/data_collection/raw_exam_papers/ssc_cgl/ssc_cgl_2020_shift1_aug13.pdf",
+        "question_id": "ssc_cgl_2020_shift1_aug13_currency"
+      }
+    },
+    {
+      "input_text": "Question from ssc_cgl_2020_shift2_aug13: Which of the following is correct?",
+      "target": {
+        "subject": "General Studies",
+        "topic": "General Knowledge",
+        "difficulty": "Medium",
+        "correct_answer": "B) Option 2"
+      },
+      "metadata": {
+        "exam_type": "SSC CGL",
+        "source": "/workspace/data_collection/raw_exam_papers/ssc_cgl/ssc_cgl_2020_shift2_aug13.pdf",
+        "question_id": "ssc_cgl_2020_shift2_aug13_q1"
+      }
+    },
+    {
+      "input_text": "Question from ssc_cgl_2020_shift2_aug13: Complete the series: 1, 4, 9, 16, ?",
+      "target": {
+        "subject": "Mathematics",
+        "topic": "Series and Sequences",
+        "difficulty": "Easy",
+        "correct_answer": "B) 25"
+      },
+      "metadata": {
+        "exam_type": "SSC CGL",
+        "source": "/workspace/data_collection/raw_exam_papers/ssc_cgl/ssc_cgl_2020_shift2_aug13.pdf",
+        "question_id": "ssc_cgl_2020_shift2_aug13_q2"
+      }
+    },
+    {
+      "input_text": "Question from ssc_cgl_2020_shift2_aug13: Find the synonym of 'ABUNDANT'",
+      "target": {
+        "subject": "English",
+        "topic": "Vocabulary",
+        "difficulty": "Medium",
+        "correct_answer": "B) Plenty"
+      },
+      "metadata": {
+        "exam_type": "SSC CGL",
+        "source": "/workspace/data_collection/raw_exam_papers/ssc_cgl/ssc_cgl_2020_shift2_aug13.pdf",
+        "question_id": "ssc_cgl_2020_shift2_aug13_q3"
+      }
+    },
+    {
+      "input_text": "Question from ssc_cgl_2020_shift2_aug13: What is the currency of Japan?",
+      "target": {
+        "subject": "Current Affairs",
+        "topic": "International",
+        "difficulty": "Easy",
+        "correct_answer": "C) Yen"
+      },
+      "metadata": {
+        "exam_type": "SSC CGL",
+        "source": "/workspace/data_collection/raw_exam_papers/ssc_cgl/ssc_cgl_2020_shift2_aug13.pdf",
+        "question_id": "ssc_cgl_2020_shift2_aug13_currency"
+      }
+    },
+    {
+      "input_text": "Question from ssc_cgl_2024_tier2_paper1_jan18: Which of the following is correct?",
+      "target": {
+        "subject": "General Studies",
+        "topic": "General Knowledge",
+        "difficulty": "Medium",
+        "correct_answer": "B) Option 2"
+      },
+      "metadata": {
+        "exam_type": "SSC CGL",
+        "source": "/workspace/data_collection/raw_exam_papers/ssc_cgl/ssc_cgl_2024_tier2_paper1_jan18.pdf",
+        "question_id": "ssc_cgl_2024_tier2_paper1_jan18_q1"
+      }
+    },
+    {
+      "input_text": "Question from ssc_cgl_2024_tier2_paper1_jan18: Complete the series: 1, 4, 9, 16, ?",
+      "target": {
+        "subject": "Mathematics",
+        "topic": "Series and Sequences",
+        "difficulty": "Easy",
+        "correct_answer": "B) 25"
+      },
+      "metadata": {
+        "exam_type": "SSC CGL",
+        "source": "/workspace/data_collection/raw_exam_papers/ssc_cgl/ssc_cgl_2024_tier2_paper1_jan18.pdf",
+        "question_id": "ssc_cgl_2024_tier2_paper1_jan18_q2"
+      }
+    },
+    {
+      "input_text": "Question from ssc_cgl_2024_tier2_paper1_jan18: Find the synonym of 'ABUNDANT'",
+      "target": {
+        "subject": "English",
+        "topic": "Vocabulary",
+        "difficulty": "Medium",
+        "correct_answer": "B) Plenty"
+      },
+      "metadata": {
+        "exam_type": "SSC CGL",
+        "source": "/workspace/data_collection/raw_exam_papers/ssc_cgl/ssc_cgl_2024_tier2_paper1_jan18.pdf",
+        "question_id": "ssc_cgl_2024_tier2_paper1_jan18_q3"
+      }
+    },
+    {
+      "input_text": "Question from ssc_cgl_2024_tier2_paper1_jan18: Calculate: 15 \u00d7 8 + 12 \u00f7 3",
+      "target": {
+        "subject": "Mathematics",
+        "topic": "Arithmetic",
+        "difficulty": "Medium",
+        "correct_answer": "B) 126"
+      },
+      "metadata": {
+        "exam_type": "SSC CGL",
+        "source": "/workspace/data_collection/raw_exam_papers/ssc_cgl/ssc_cgl_2024_tier2_paper1_jan18.pdf",
+        "question_id": "ssc_cgl_2024_tier2_paper1_jan18_calculation"
+      }
+    },
+    {
+      "input_text": "Which of the following is the smallest prime number?",
+      "target": {
+        "subject": "Mathematics",
+        "topic": "Number Theory",
+        "difficulty": "Easy",
+        "correct_answer": "C) 2"
+      },
+      "metadata": {
+        "exam_type": "SSC CGL",
+        "source": "sample_generated",
+        "question_id": "q_16"
+      }
+    },
+    {
+      "input_text": "The constitution of India was adopted on which date?",
+      "target": {
+        "subject": "General Knowledge",
+        "topic": "Indian Constitution",
+        "difficulty": "Medium",
+        "correct_answer": "C) 26 November 1949"
+      },
+      "metadata": {
+        "exam_type": "SSC CGL",
+        "source": "sample_generated",
+        "question_id": "q_17"
+      }
+    }
+  ],
+  "validation": [
+    {
+      "input_text": "Complete the series: 2, 6, 12, 20, 30, ?",
+      "target": {
+        "subject": "Mathematics",
+        "topic": "Series and Sequences",
+        "difficulty": "Medium",
+        "correct_answer": "A) 42"
+      },
+      "metadata": {
+        "exam_type": "SSC CGL",
+        "source": "sample_generated",
+        "question_id": "q_18"
+      }
+    },
+    {
+      "input_text": "Which article of the Indian Constitution provides for the appointment of the Comptroller and Auditor General of India?",
+      "target": {
+        "subject": "Polity",
+        "topic": "Constitutional Bodies",
+        "difficulty": "Hard",
+        "correct_answer": "A) Article 148"
+      },
+      "metadata": {
+        "exam_type": "UPSC",
+        "source": "sample_generated",
+        "question_id": "q_19"
+      }
+    }
+  ],
+  "test": [
+    {
+      "input_text": "The concept of 'Zero Hunger' is one of the Sustainable Development Goals. Which SDG number is it?",
+      "target": {
+        "subject": "Current Affairs",
+        "topic": "Sustainable Development",
+        "difficulty": "Medium",
+        "correct_answer": "B) SDG 2"
+      },
+      "metadata": {
+        "exam_type": "UPSC",
+        "source": "sample_generated",
+        "question_id": "q_20"
+      }
+    },
+    {
+      "input_text": "What is the currentRepo Rate as decided by RBI in December 2024?",
+      "target": {
+        "subject": "Banking",
+        "topic": "Monetary Policy",
+        "difficulty": "Medium",
+        "correct_answer": "B) 6.50%"
+      },
+      "metadata": {
+        "exam_type": "IBPS PO",
+        "source": "sample_generated",
+        "question_id": "q_21"
+      }
+    },
+    {
+      "input_text": "Which zone of Indian Railways has the maximum route kilometers?",
+      "target": {
+        "subject": "General Knowledge",
+        "topic": "Indian Railways",
+        "difficulty": "Medium",
+        "correct_answer": "A) Northern Railway"
+      },
+      "metadata": {
+        "exam_type": "RRB NTPC",
+        "source": "sample_generated",
+        "question_id": "q_22"
+      }
+    }
+  ]
+}

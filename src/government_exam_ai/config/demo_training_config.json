@@ -1,0 +1,60 @@
+{
+  "model_config": {
+    "base_model": "microsoft/DialoGPT-medium",
+    "epochs": 5,
+    "batch_size": 16,
+    "learning_rate": 0.0001,
+    "max_length": 512,
+    "dropout": 0.3,
+    "save_dir": "models/government_exam_transformer"
+  },
+  "dataset_config": {
+    "min_text_length": 20,
+    "augmentation_factor": 3,
+    "deduplicate": true,
+    "test_size": 0.2,
+    "validation_size": 0.1
+  },
+  "training_settings": {
+    "use_augmentation": true,
+    "save_intermediate": true,
+    "early_stopping": true,
+    "validation_metric": "accuracy"
+  },
+  "exam_config": {
+    "subjects": [
+      "Mathematics",
+      "Science",
+      "History",
+      "Geography",
+      "Polity",
+      "Economics",
+      "Banking",
+      "General Knowledge",
+      "English",
+      "Reasoning",
+      "Current Affairs",
+      "Defence"
+    ],
+    "topics": [
+      "Arithmetic",
+      "Algebra",
+      "Geometry",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Ancient History",
+      "Modern History",
+      "Indian Geography",
+      "World Geography",
+      "Indian Polity",
+      "Economics",
+      "Banking Operations"
+    ],
+    "difficulty_levels": [
+      "Easy",
+      "Medium",
+      "Hard"
+    ]
+  }
+}

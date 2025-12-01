@@ -1,0 +1,22 @@
+{
+  "training_start_time": "2025-12-01T14:59:27.237385",
+  "config": {
+    "model_name": "distilbert-base-uncased",
+    "num_subjects": 20,
+    "num_topics": 50,
+    "num_difficulty": 3,
+    "dropout": 0.3,
+    "learning_rate": 2e-05,
+    "batch_size": 4,
+    "num_epochs": 3,
+    "warmup_steps": 10,
+    "weight_decay": 0.01
+  },
+  "dataset_sizes": {
+    "train": 18,
+    "validation": 2,
+    "test": 3
+  },
+  "training_status": "simulated",
+  "notes": "This is a demo run with simulated training. In production, actual training would occur here."
+}

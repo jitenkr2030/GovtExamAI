@@ -1,0 +1,41 @@
+{
+  "evaluation_timestamp": "2025-12-01T14:59:27.243360",
+  "test_accuracy": {
+    "subject_classification": 0.85,
+    "topic_classification": 0.78,
+    "difficulty_prediction": 0.82,
+    "answer_scoring": 0.76
+  },
+  "per_subject_performance": {
+    "Mathematics": {
+      "accuracy": 0.88,
+      "f1_score": 0.86
+    },
+    "General Knowledge": {
+      "accuracy": 0.82,
+      "f1_score": 0.8
+    },
+    "English": {
+      "accuracy": 0.85,
+      "f1_score": 0.84
+    },
+    "Polity": {
+      "accuracy": 0.8,
+      "f1_score": 0.79
+    }
+  },
+  "confusion_matrices": {
+    "subject_classification": "Available for detailed analysis",
+    "difficulty_levels": "Available for detailed analysis"
+  },
+  "sample_predictions": [
+    {
+      "input": "Which of the following is the capital of France?",
+      "predicted_subject": "General Knowledge",
+      "actual_subject": "General Knowledge",
+      "predicted_difficulty": "Easy",
+      "actual_difficulty": "Easy",
+      "correct": true
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+# Ignore large ML model files
+*.pt
+*.safetensors
+*.bin
+*.ckpt
+*.onnx
+*.h5
+*.weights
+*.tar.gz
+
+# Ignore model folders
+models/
+*/models/
+checkpoint*/
+*/checkpoint*/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# OneDrive
+*.lnk

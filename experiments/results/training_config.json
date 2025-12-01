@@ -1,0 +1,12 @@
+{
+  "model_name": "distilbert-base-uncased",
+  "num_subjects": 20,
+  "num_topics": 50,
+  "num_difficulty": 3,
+  "dropout": 0.3,
+  "learning_rate": 2e-05,
+  "batch_size": 4,
+  "num_epochs": 3,
+  "warmup_steps": 10,
+  "weight_decay": 0.01
+}
