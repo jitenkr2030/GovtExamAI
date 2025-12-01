@@ -169,4 +169,4 @@ For questions and support:
 
 ---
 
-**Built with ❤️ by MiniMax Agent**
+**Built with ❤️ by Jitender Kumar**
